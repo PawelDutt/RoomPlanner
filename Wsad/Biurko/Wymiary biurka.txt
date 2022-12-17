@@ -1,10 +1,10 @@
-Wysokość całkowita/blatu: 70cm
-Głębokość blatu: 70cm
+Wysokość całkowita/blatu: 65cm
+Głębokość blatu: 65cm
 Szerokość blatu: 260cm
 Grubość blatu: 3cm
 
 Szerokość komód: 35cm
-Wysokość komód: 67cm
+Wysokość komód: 62cm
 Głębokość komód: /zgodna z głębokością blatu/
 
 Szerokość wnęk na nogi: 70cm
@@ -12,3 +12,6 @@ Szerokość wnęk na nogi: 70cm
 Szerokość półki na wieżę audio: 50cm
 
 Szerokość płyt poziomych: 2,5cm
+
+Szerokość nóżek: 5cm
+Wysokość nóżek: 6cm

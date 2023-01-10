@@ -1,17 +1,19 @@
-Wysokość całkowita/blatu: 65cm
+Wysokość całkowita/blatu: 65-70cm
 Głębokość blatu: 65cm
 Szerokość blatu: 260cm
-Grubość blatu: 3cm
 
 Szerokość komód: 35cm
 Wysokość komód: 62cm
 Głębokość komód: /zgodna z głębokością blatu/
 
-Szerokość wnęk na nogi: 70cm
+Szerokość wnęk na nogi: ok. 70cm
 
 Szerokość półki na wieżę audio: 50cm
+Wysokość półki na wieżę audio: 45-47cm
+W półce docelowo ma zostać umieszczona wieża audio o wysokości 43cm i szerokości 47,5cm
+Pozostała wysokość przeznaczona na szufladę powyżej
 
-Szerokość płyt poziomych: 2,5cm
-
-Szerokość nóżek: 5cm
+Szerokość nóżek: 2cm
 Wysokość nóżek: 6cm
+
+Wysokość dodatkowych blatów powinna być regulowana, tak aby mogły być przechowywane pod biurkiem, a po wyjęciu mogły służyć za stolik nad materacem w łóżku
